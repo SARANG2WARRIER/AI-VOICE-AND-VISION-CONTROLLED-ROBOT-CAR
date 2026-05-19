@@ -1,0 +1,11 @@
+groq
+assemblyai
+sounddevice
+numpy
+python-dotenv
+pyserial
+flask
+requests
+opencv-python
+ultralytics
+websockets
