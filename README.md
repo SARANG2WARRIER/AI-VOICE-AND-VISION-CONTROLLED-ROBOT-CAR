@@ -238,6 +238,3 @@ DETECTION_SERVER_PORT=5050
 
 ---
 
-## 📄 License
-
-MIT License
